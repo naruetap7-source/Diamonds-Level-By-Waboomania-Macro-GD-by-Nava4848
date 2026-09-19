@@ -1,6 +1,6 @@
 ### Diamonds-Level-Macro-Geometry-Dash
 
-# recommended for use with xdBot
+recommended for use with xdBot
 
 This is a level obtained from the Waboo channel.
 
