@@ -1,6 +1,6 @@
 ### Diamonds-Level-Macro-Geometry-Dash
 
-# recommended for use with xdBot######
+# recommended for use with xdBot
 
 This is a level obtained from the Waboo channel.
 
@@ -21,3 +21,4 @@ Just in case anyone wants to use it to film a botted showcase video, but
 - `.ttr` — ToastyReplay
 - `.ttrl` — ToastyReplay Lite
 - `.xd` — xdBot
+# remember recommended for use with xdBot
