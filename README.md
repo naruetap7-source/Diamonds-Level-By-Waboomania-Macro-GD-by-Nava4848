@@ -21,4 +21,4 @@ Just in case anyone wants to use it to film a botted showcase video, but
 - `.ttr` — ToastyReplay
 - `.ttrl` — ToastyReplay Lite
 - `.xd` — xdBot
-# remember recommended for use with xdBot
+# Remember recommended for use with xdBot
