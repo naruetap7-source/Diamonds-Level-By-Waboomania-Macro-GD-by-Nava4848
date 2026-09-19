@@ -10,3 +10,6 @@ Just in case anyone wants to use it to film a botted showcase video, but
 
 
 ### Available in multiple replay formats
+
+### Replay Formats
+- `.gdr2` — xdBot / Mega Hack
