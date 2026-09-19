@@ -1,17 +1,17 @@
-### Diamonds-Level-Macro-Geometry-Dash
+# Diamonds-Level-Macro-Geometry-Dash
 
-recommended for use with xdBot
+#### recommended for use with xdBot
 
 This is a level obtained from the Waboo channel.
 
 Just in case anyone wants to use it to film a botted showcase video, but
-# don't use it to win the prize money.
+## don't use it to win the prize money.
 
 
 
 ### Available in multiple replay formats
 
-### Replay Formats
+## Replay Formats
 - `.gdr` — zBot / xdBot
 - `.gdr2` — xdBot / Mega Hack
 - `.json` — TasBot
