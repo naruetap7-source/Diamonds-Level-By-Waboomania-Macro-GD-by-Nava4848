@@ -5,9 +5,13 @@
 ## level profile
 
 ID: 148479788
+
 Length: Short (00:21)
+
 Rate Star: 6-7 (Harder)
+
 Difficulty: Harder (impossible, Edge of Possibility)
+
 Song: Time Machine (By: Waterflame)
 
 This is a level obtained from the Waboo channel.
