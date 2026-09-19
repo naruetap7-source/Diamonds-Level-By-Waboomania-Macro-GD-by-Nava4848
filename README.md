@@ -12,4 +12,12 @@ Just in case anyone wants to use it to film a botted showcase video, but
 ### Available in multiple replay formats
 
 ### Replay Formats
+- `.gdr` — zBot / xdBot
 - `.gdr2` — xdBot / Mega Hack
+- `.json` — TasBot
+- `.macro` — Gdmo
+- `.re3` — ReplayEngine 3
+- `.slc` — Silicate
+- `.ttr` — ToastyReplay
+- `.ttrl` — ToastyReplay Lite
+- `.xd` — xdBot
