@@ -10,6 +10,8 @@ Length: Short (00:21)
 
 Rate Star: 6-7 (Harder)
 
+Stars Requested: None
+
 Difficulty: Harder (Edge of Possibility)
 
 Uploaded/Host by: Waboomania
