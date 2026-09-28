@@ -14,8 +14,7 @@ Stars Requested: None
 
 Difficulty: Harder (Edge of Possibility)
 
-Uploaded/Host by: Waboomania
-youtube.com/@waboo/videos
+Uploaded/Host by: Waboomania (https://www.youtube.com/@waboo)
 
 Verified by: None
 
