@@ -10,7 +10,11 @@ Length: Short (00:21)
 
 Rate Star: 6-7 (Harder)
 
-Difficulty: Harder (impossible, Edge of Possibility)
+Difficulty: Harder (Edge of Possibility)
+
+Uploaded/Host by: Waboomania
+
+Verified by: None
 
 Song: Time Machine (By: Waterflame)
 
