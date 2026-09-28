@@ -14,13 +14,23 @@ Stars Requested: None
 
 Difficulty: Harder (Edge of Possibility)
 
-Uploaded/Host by: Waboomania (https://www.youtube.com/@waboo)
+Uploaded/Host by: Waboomania
 
 Verified by: None
 
-Special thanks to the wave challenge person: Diamond (https://www.youtube.com/@DiamondGD)
+Special thanks to the wave challenge person: Diamond
 
 Song: Time Machine (By: Waterflame)
+
+### Channel
+
+Waboomania: (https://www.youtube.com/@waboo)
+
+Diamond: (https://www.youtube.com/@DiamondGD)
+
+Waterflame: (https://www.youtube.com/@WaterflameMusic)
+
+## Description
 
 This is a level obtained from the Waboo channel.
 
