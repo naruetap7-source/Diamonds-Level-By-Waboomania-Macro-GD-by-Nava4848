@@ -18,6 +18,8 @@ Uploaded/Host by: Waboomania (https://www.youtube.com/@waboo)
 
 Verified by: None
 
+Special thanks to the wave challenge person: Diamond (https://www.youtube.com/@DiamondGD)
+
 Song: Time Machine (By: Waterflame)
 
 This is a level obtained from the Waboo channel.
